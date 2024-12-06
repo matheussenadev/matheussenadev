@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - Veja um pouco mais sobre mim...
 -->
 
-Tenho 15 anos;
+Tenho 16 anos;
 
-Estou estudando JavaScript;
+Faço Curso Técnico em Informática;
 
 Pretendo estudar tecnologias como Node Js e outras linguagens backend;
 
